@@ -6,10 +6,6 @@ I build backend systems, integrations, realtime applications and self-hosted sof
 
 ### Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,nodejs,nestjs,react,nextjs,ts,svelte,postgres,redis,docker,linux,nginx" alt="Tech stack" />
-</p>
-
 **Backend:** Python · FastAPI · Go · Node.js · NestJS  
 **Frontend:** React · Next.js · TypeScript · SvelteKit  
 **Data:** PostgreSQL · Redis · SQLite  
@@ -21,7 +17,7 @@ I build backend systems, integrations, realtime applications and self-hosted sof
 ## Selected projects
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI" />
+  <img src="./assets/minimum.svg" width="24" height="24" alt="Minimum Messenger icon" />
   <a href="https://github.com/NikitaKHS/minimum-messenger">Minimum Messenger</a>
 </h3>
 
@@ -40,7 +36,7 @@ Self-hosted end-to-end encrypted messenger designed around a zero-trust server m
 ---
 
 <h3>
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="24" height="24" alt="YouTube" />
+  <img src="./assets/syncema.svg" width="24" height="24" alt="Video Together icon" />
   <a href="https://github.com/NikitaKHS/syncema">Video Together / Syncema</a>
 </h3>
 
@@ -60,7 +56,7 @@ Realtime synchronized YouTube rooms for Web and Android.
 ---
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python" />
+  <img src="./assets/audio2text.svg" width="24" height="24" alt="audio2text icon" />
   <a href="https://github.com/NikitaKHS/audio2text">audio2text studio</a>
 </h3>
 
@@ -79,7 +75,7 @@ Local application for accurate transcription of long audio and video recordings.
 ---
 
 <h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="30" height="24" alt="Go" />
+  <img src="./assets/mtpanel.svg" width="30" height="24" alt="MTPanel icon" />
   <a href="https://github.com/NikitaKHS/mtpanel">MTPanel</a>
 </h3>
 
